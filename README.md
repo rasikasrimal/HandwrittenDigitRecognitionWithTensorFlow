@@ -8,7 +8,8 @@ Welcome to Basic Image Classification with TensorFlow.
 
 This graph describes the problem that we are trying to solve visually. We want to create and train a model that takes an image of a handwritten digit as input and predicts the class of that digit, i.e., it predicts the digit or the class of the input image.
 
-![Hand Written Digits Classification](images/1_1.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/80f8a51b-3e32-4601-80b1-9d5eb99afd7c" />
+
 
 ## Task 2: The Dataset
 
